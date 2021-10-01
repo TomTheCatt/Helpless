@@ -2,7 +2,7 @@
 Discord.py bot for "nuking" multiple servers.
 
 It is against Discord's Terms of Service to use a bot to "nuke" a server. Use of a alt account is recommended.
-"Helpless" was created to delete an entire Discord server known as "nuking". Using this program as a self-bot, ddosing/doxxing tool, or a tool to otherwise break Discord's Terms of Service is not supported by the author; and as such the author will not be held responsible for the actions of deviated users.
+"Helpless" was created to delete an entire Discord server known as "nuking". Using this program for real server nuking is not supported by the author; and as such the author will not be held responsible for the actions of users.
 
 HOW TO USE:
 1. Install python normally.
